@@ -16,13 +16,17 @@
 -  Клонируйте репозиторий:
    ```bash
    git clone https://github.com/lanmorive/vk_test/tree/main
+   ```
+  ```bash
    cd vk_test
    ```
 - Создание виртуального окружения
    ```bash
    python3 -m venv venv
-   source venv/bin/activate
    ```
+  ```bash
+  source venv/bin/activate
+  ```
 - Установка зависимостей
   ```bash
   pip install -r requirements.txt
