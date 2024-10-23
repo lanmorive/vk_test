@@ -24,7 +24,7 @@
    ```bash
    python3 -m venv venv
    ```
-  ```bash
+   ```bash
   source venv/bin/activate
   ```
 - Установка зависимостей
