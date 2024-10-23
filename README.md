@@ -17,9 +17,9 @@
    ```bash
    git clone https://github.com/lanmorive/vk_test/tree/main
    ```
-  ```bash
+   ```bash
    cd vk_test
-   ```
+    ```
 - Создание виртуального окружения
    ```bash
    python3 -m venv venv
