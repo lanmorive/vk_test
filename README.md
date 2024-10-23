@@ -13,21 +13,21 @@
 - **`submit_data`**: Директория, содержащая исходные файлы `train` и `test`, которые используются для обучения модели и предсказаний.
 
 ## Настройка
-- 1. Клонируйте репозиторий:
+-  Клонируйте репозиторий:
    ```bash
    git clone https://github.com/lanmorive/vk_test/tree/main
    cd vk_test
    ```
-- 2. Создание виртуального окружения
+- Создание виртуального окружения
    ```bash
    python3 -m venv venv
    source venv/bin/activate
    ```
-- 3. Установка зависимостей
+- Установка зависимостей
   ```bash
   pip install -r requirements.txt
    ```
--4. Запуск
+- Запуск
   ```bash
   python main.py
    ```
