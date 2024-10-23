@@ -35,4 +35,4 @@
   ```bash
   python main.py
    ```
-     
+Потом в папке будет создан файл submission.csv 
