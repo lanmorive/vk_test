@@ -15,7 +15,7 @@
 ## Настройка
 -  Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/lanmorive/vk_test/tree/main
+   https://github.com/lanmorive/vk_test
    ```
    ```bash
    cd vk_test
